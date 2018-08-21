@@ -1,0 +1,12 @@
+C:\Users\andrew\source\repos\SeeSharp\SeeSharp\obj\Debug\SeeSharp.csprojAssemblyReference.cache
+C:\Users\andrew\source\repos\SeeSharp\SeeSharp\obj\Debug\SeeSharp.csproj.CoreCompileInputs.cache
+C:\Users\andrew\source\repos\SeeSharp\SeeSharp\bin\Debug\SeeSharp.exe.config
+C:\Users\andrew\source\repos\SeeSharp\SeeSharp\bin\Debug\SeeSharp.exe
+C:\Users\andrew\source\repos\SeeSharp\SeeSharp\bin\Debug\SeeSharp.pdb
+C:\Users\andrew\source\repos\SeeSharp\SeeSharp\bin\Debug\PcapDotNet.Base.dll
+C:\Users\andrew\source\repos\SeeSharp\SeeSharp\bin\Debug\PcapDotNet.Core.dll
+C:\Users\andrew\source\repos\SeeSharp\SeeSharp\bin\Debug\PcapDotNet.Core.Extensions.dll
+C:\Users\andrew\source\repos\SeeSharp\SeeSharp\bin\Debug\PcapDotNet.Packets.dll
+C:\Users\andrew\source\repos\SeeSharp\SeeSharp\obj\Debug\SeeSharp.csproj.CopyComplete
+C:\Users\andrew\source\repos\SeeSharp\SeeSharp\obj\Debug\SeeSharp.exe
+C:\Users\andrew\source\repos\SeeSharp\SeeSharp\obj\Debug\SeeSharp.pdb
